@@ -16,7 +16,7 @@ def obter_melhor_jogada(notacao):
 
     return melhor_jogada
 
-# Exemplo de uso
+
 notacao_input = "e2e4"
 melhor_jogada = obter_melhor_jogada(notacao_input)
 print(f"A melhor jogada do Stockfish após {notacao_input} é: {melhor_jogada}")

@@ -11,3 +11,4 @@ resultados = modelo(img)
 
 resultados[0].show() 
 
+
